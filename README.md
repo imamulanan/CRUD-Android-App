@@ -44,4 +44,8 @@ cd CRUD-Android-App
 flutter pub get
 
 # Step 3: Run the app
+ HEAD
 flutter run
+
+flutter run
+ d2774a3014d36a549da026de42a75c3feb073046
